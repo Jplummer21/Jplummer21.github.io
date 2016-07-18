@@ -1,0 +1,7 @@
+h1, h2, h3, p, li, img{
+    color: black;
+    text-align: center;
+}
+body{
+  background-color: lightblue;
+}
